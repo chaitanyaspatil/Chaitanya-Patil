@@ -1,6 +1,9 @@
-![Me](chaitanya.jpg)
+%![Me](chaitanya.jpg)
 
-I earned my Bachelor's in Technology degree in Electronics Engineering from [Vishwakarma Institute of Technology, Pune (VIT, Pune)](http://www.vit.edu/index.php) in May 2019.|![Me](chaitanya.jpg)
+I earned my Bachelor's in Technology degree in ![Me](chaitanya.jpg)
+Electronics Engineering from 
+[Vishwakarma Institute of Technology, Pune (VIT, Pune)](http://www.vit.edu/index.php)
+in May 2019.
 
 At VIT my academic interests were:
 1. Signal and Image Processing
