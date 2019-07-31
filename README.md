@@ -1,3 +1,6 @@
+If you want to embed images, this is how you do it:
+![Me](https://github.com/chaitanyaspatil/Chaitanya-Patil/blob/master/ImageOfChaitanya.jpg)
+
 I earned my Bachelor's in Technology degree in Electronics Engineering from [Vishwakarma Institute of Technology, Pune (VIT, Pune)](http://www.vit.edu/index.php) in May 2019.
 
 At VIT my academic interests were:
@@ -11,5 +14,4 @@ At college, I was part of the TEDxVITPune organizing team which held annual conf
 
 I will be pursuing an MS in Electrical and Computer Engineering from the [University of California, San Diego](https://ucsd.edu/) starting Fall 2019.
 
-If you want to embed images, this is how you do it:
-![Me](https://github.com/chaitanyaspatil/Chaitanya-Patil/blob/master/ImageOfChaitanya.jpg)
+
