@@ -1,5 +1,5 @@
 If you want to embed images, this is how you do it:
-![Me](https://github.com/chaitanyaspatil/Chaitanya-Patil/blob/master/ImageOfChaitanya.jpg)
+![Me](https://github.com/chaitanyaspatil/Chaitanya-Patil/blob/master/chaitanya.jpg)
 
 I earned my Bachelor's in Technology degree in Electronics Engineering from [Vishwakarma Institute of Technology, Pune (VIT, Pune)](http://www.vit.edu/index.php) in May 2019.
 
