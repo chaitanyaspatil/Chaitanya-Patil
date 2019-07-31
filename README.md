@@ -12,5 +12,4 @@ At college, I was part of the TEDxVITPune organizing team which held annual conf
 I will be pursuing an MS in Electrical and Computer Engineering from the [University of California, San Diego](https://ucsd.edu/) starting Fall 2019.
 
 If you want to embed images, this is how you do it:
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Me](https://chaitanyaspatil.github.io/hello-world/ImageOfChaitanya.jpg)
