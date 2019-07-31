@@ -1,5 +1,3 @@
-## Chaitanya Patil
-
 I earned my Bachelor's in Technology degree in Electronics Engineering from [Vishwakarma Institute of Technology, Pune (VIT, Pune)](http://www.vit.edu/index.php) in May 2019.
 
 At VIT my academic interests were:
