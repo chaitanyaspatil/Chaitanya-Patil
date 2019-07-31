@@ -1,4 +1,4 @@
-.![Me](https://github.com/chaitanyaspatil/Chaitanya-Patil/blob/master/chaitanya.jpg)
+![Me](chaitanya.jpg)
 
 I earned my Bachelor's in Technology degree in Electronics Engineering from [Vishwakarma Institute of Technology, Pune (VIT, Pune)](http://www.vit.edu/index.php) in May 2019.
 
