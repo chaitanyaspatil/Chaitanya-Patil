@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/chaitanyaspatil/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+I earned my Bachelor's in Technology degree in Electronics Engineering from [Vishwakarma Institute of Technology, Pune (VIT, Pune)](http://www.vit.edu/index.php), and will be pursuing an MS in Electrical and Computer Engineering from the [University of California, San Diego](https://ucsd.edu/) starting Fall 2019.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
